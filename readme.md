@@ -1,3 +1,7 @@
+# note: this project is archived - and it was originally cracked by twonick (repository gone). mc version: 1.21.5 
+
+# archived description below:
+
 5 months in development, cracked in 5 days
 
 to use the crack just put both `mio.jar` and `mio-loader.jar` in the mods folder along with fabric api and run.
