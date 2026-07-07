@@ -19,4 +19,4 @@ https://github.com/openjdk/jdk/blob/59629f88e6fad9c1ff91be4cfea83f78f0ea503c/src
 https://github.com/openjdk/jdk/blob/59629f88e6fad9c1ff91be4cfea83f78f0ea503c/src/hotspot/share/interpreter/linkResolver.cpp#L943 <br>
 https://github.com/openjdk/jdk/blob/59629f88e6fad9c1ff91be4cfea83f78f0ea503c/src/hotspot/share/interpreter/linkResolver.cpp#L565 <br>
 
-[![]([https://raw.githubusercontent.com/mashinori/mio/refs/heads/fate/fate.png](https://www.futureclient.net/fate.png))](https://open.spotify.com/track/6zaKzSQwWtxqAvBvoubEWo)
+[![](https://raw.githubusercontent.com/mashinori/mio/refs/heads/fate/fate.png)](https://open.spotify.com/track/6zaKzSQwWtxqAvBvoubEWo)
